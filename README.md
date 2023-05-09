@@ -1,11 +1,11 @@
 # The Sparks Foundation Internship Tasks
-This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
 
 * **Internship Category** - Data Science and Business Analytics
 * **Internship Duration** - 1 Month ( May - 2023 )
 * **Internship Type** - Virtual
 
-### Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-1 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 Please click on the images on right side to view my solution.
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
