@@ -8,7 +8,6 @@ This repository contains the tasks that I completed while working as an intern f
 * **Internship Type** - Virtual
 
 ### # Task-1 : Prediction using Decision Tree Algorithm(Level - Intermediate)
-Please click on the images on the right side to view my solution.
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 2. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
